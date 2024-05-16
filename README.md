@@ -27,21 +27,14 @@ End the program
 ```py
 #Developed by: S.VENGADA KRISHNAN
 #Register Number: 212223110061
-
 import sys
-
-count = 0
-
-with open ("syc.txt",'r') as f1:
-
-    for line in f1:
-
-        word = line.split()
-
-        count += len (word)
-
-print("word count in file = ",count)
-
+fp=open(sys.argv[1])
+wordcount=0
+for i in fp:
+    words=i.split()
+    wordcount+=len(words)
+print("Total no of words in file is",wordcount)
+fp.close()
 ```
 
 ### OUTPUT:
