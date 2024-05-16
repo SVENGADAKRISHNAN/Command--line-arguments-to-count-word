@@ -38,7 +38,7 @@ fp.close()
 ```
 
 ### OUTPUT:
-![image](https://github.com/SVENGADAKRISHNAN/Command--line-arguments-to-count-word/assets/147473084/7be045fd-24ef-4598-aa2b-469c27abe63a)
+![WhatsApp Image 2024-05-16 at 2 33 25 PM](https://github.com/SVENGADAKRISHNAN/Command--line-arguments-to-count-word/assets/147473084/7d0baf64-2a0e-43cd-8ffd-4bbb1e2224e7)
 
 
 
